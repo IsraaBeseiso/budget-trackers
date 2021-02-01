@@ -24,8 +24,6 @@
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1",
-    "webpack": "^4.46.0npm ",
-    "webpack-cli": "^4.4.0"
+    "morgan": "^1.9.1"
   }
 }
